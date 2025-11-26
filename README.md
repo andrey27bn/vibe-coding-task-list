@@ -48,7 +48,7 @@
 
 ```bash
 # Перейдите в папку проекта
-cd vibe-coding-task-list
+cd vibe-coding-task-list-main
 
 # Установите зависимости проекта (включая Dexie и Tailwind)
 pnpm install
