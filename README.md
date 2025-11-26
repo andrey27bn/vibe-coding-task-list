@@ -1,3 +1,5 @@
+![Vibe Task List - Десктопный вид с активными и завершенными задачами](https://github.com/andrey27bn/vibe-coding-task-list/blob/main/src/lib/assets/screenshot.png)
+
 # 📝 Vibe Task List: Менеджер задач на SvelteKit и IndexDB
 
 ## 🚀 Описание проекта
